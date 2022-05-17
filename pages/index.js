@@ -8,7 +8,6 @@ import Navbar from '../components/Navbar'
 import SolarPanels from '../components/SolarPanels'
 import SolarRoof from '../components/SolarRoof'
 import styles from '../styles/Home.module.css'
-import photo from "../public/model-s.jpg"
 
 export default function Home() {
   return (

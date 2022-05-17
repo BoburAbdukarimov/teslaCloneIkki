@@ -45,7 +45,7 @@
 }
 /* Header */
 .section{
-  background-image: url("../public/M3-Homepage-Desktop-LHD.jpg");
+  background-image: url("../components/images/M3-Homepage-Desktop-LHD.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -54,32 +54,32 @@
 
 }
 .section:nth-child(3){
-  background: url("../public/model-y.jpg") no-repeat;
+  background: url("../components/images/model-y.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .section:nth-child(4){
-  background: url("../public/model-s.jpg") no-repeat;
+  background: url("../components/images/model-s.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .section:nth-child(5){
-  background: url("../public/model-x.jpg") no-repeat;
+  background: url("../components/images/model-x.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .section:nth-child(6){
-  background: url("../public/solar-panel.jpg") no-repeat;
+  background: url("../components/images/solar-panel.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .section:nth-child(7){
-  background: url("../public/solar-roof.jpg") no-repeat;
+  background: url("../components/images/solar-roof.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 .section:nth-child(8){
-  background: url("../public/accessories.jpg") no-repeat;
+  background: url("../components/images/accessories.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
